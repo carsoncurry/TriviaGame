@@ -1,0 +1,14 @@
+.jumbotron, 
+.card, 
+.container {
+    background: url("../images/green_dust_scratch.png");
+    padding: 15px;
+}
+
+body {
+    background: url("../images/leaves-pattern.png");
+}
+
+hr {
+    background-color: darkslategrey;
+}
